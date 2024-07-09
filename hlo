@@ -1,0 +1,6 @@
+echo " hi macha nin yaru ninge yake beku "
+cd /var/lib/jenkins
+touch ram 
+date 
+du -sh 
+free -m 
